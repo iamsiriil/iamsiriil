@@ -10,6 +10,9 @@
 
 #### [Recursion](https://github.com/iamsiriil/c_recursion)
 
+#### [Sorting Arrays](https://github.com/iamsiriil/c_sorting_arrays)
+
+#### [Sorting Stacks](https://github.com/iamsiriil/c_sorting_stacks)
 ## Reference material
 
 ## Bibliography
