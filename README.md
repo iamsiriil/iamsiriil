@@ -4,6 +4,8 @@
 
 #### [Sudoku Solver](https://github.com/iamsiriil/c_sudoku_solver)
 
+#### [Unix Signal Handling](https://github.com/iamsiriil/c_unix_signal_handling)
+
 ## Study and analysis
 
 #### [Data Structures](https://github.com/iamsiriil/c_data_structures)
