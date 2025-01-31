@@ -1,6 +1,6 @@
 ## Projects
 
-#### [My C Library](https://github.com/iamsiriil/c_myclib)
+#### [CNS] Library](https://github.com/iamsiriil/c_cnslib)
 
 #### [Sudoku Solver](https://github.com/iamsiriil/c_sudoku_solver)
 
