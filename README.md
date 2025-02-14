@@ -4,17 +4,13 @@
 
 #### [Sudoku Solver](https://github.com/iamsiriil/c_sudoku_solver)
 
-#### [Unix Signal Handling](https://github.com/iamsiriil/c_unix_signal_handling)
+#### [Minitalk](https://github.com/iamsiriil/c_minitalk)
+
+#### [Push Swap](https://github.com/iamsiriil/c_push_swap)
+
 
 ## Study and analysis
 
-#### [Data Structures](https://github.com/iamsiriil/c_data_structures)
-
-#### [Recursion](https://github.com/iamsiriil/c_recursion)
-
-#### [Sorting Arrays](https://github.com/iamsiriil/c_sorting_arrays)
-
-#### [Sorting Stacks](https://github.com/iamsiriil/c_sorting_stacks)
 ## Reference material
 
 ## Bibliography
