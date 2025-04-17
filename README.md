@@ -1,16 +1,2 @@
-## Projects
 
-#### [CNS Library](https://github.com/iamsiriil/c_cnslib)
-
-#### [Sudoku Solver](https://github.com/iamsiriil/c_sudoku_solver)
-
-#### [Minitalk](https://github.com/iamsiriil/c_minitalk)
-
-#### [Push Swap](https://github.com/iamsiriil/c_push_swap)
-
-
-## Study and analysis
-
-## Reference material
-
-## Bibliography
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
