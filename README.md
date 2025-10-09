@@ -5,7 +5,7 @@
   </a>
 
   <a href="https://www.youtube.com/watch?v=gtR1mf1Blqg" target="_blank">
-    <img src="http://img.youtube.com/vi/gtR1mf1Blqg/0.jpg" alt="Video 1" width="200" height="150" border="10" />
+    <img src="http://img.youtube.com/vi/gtR1mf1Blqg/0.jpg" alt="Video 1" width="200" height="150" style="padding:10;" />
   </a>
 
   <a href="https://www.youtube.com/watch?v=UMXkHRZI8VE" target="_blank">
