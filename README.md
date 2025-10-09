@@ -7,4 +7,8 @@
   <a href="https://www.youtube.com/watch?v=gtR1mf1Blqg" target="_blank">
     <img src="http://img.youtube.com/vi/gtR1mf1Blqg/0.jpg" alt="Video 1" width="240" height="180" border="10" />
   </a>
+
+  <a href="https://www.youtube.com/watch?v=UMXkHRZI8VE" target="_blank">
+    <img src="http://img.youtube.com/vi/UMXkHRZI8VE/0.jpg" alt="Video 1" width="240" height="180" border="10" />
+  </a>
 </p>
