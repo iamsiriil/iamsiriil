@@ -9,6 +9,6 @@
   </a>
 
   <a href="https://www.youtube.com/watch?v=UMXkHRZI8VE" target="_blank">
-    <img src="http://img.youtube.com/vi/UMXkHRZI8VE/0.jpg" alt="Video 1" width="200" height="113" border="10" />
+    <img src="http://img.youtube.com/vi/UMXkHRZI8VE/0.jpg" alt="Video 1" width="240" height="180" border="10" />
   </a>
 </p>
